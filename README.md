@@ -120,13 +120,6 @@
 | [**Crypto-Currency-Price-Prediction**](https://github.com/HaseebAlgoMastero/Crypto-Currency-Price) | ![GitHub issues](https://img.shields.io/github/issues/HaseebAlgoMastero/Crypto-Currency-Price?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/HaseebAlgoMastero/Crypto-Currency-Price?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/HaseebAlgoMastero/Crypto-Currency-Price?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/HaseebAlgoMastero/Crypto-Currency-Price?color=blue&logo=github&style=flat) |
 | [**Microsoft-Stock-Price-Prediction**](https://github.com/HaseebAlgoMastero/Microsoft-stock-price-prediction) | ![GitHub issues](https://img.shields.io/github/issues/HaseebAlgoMastero/Microsoft-stock-price-prediction?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/HaseebAlgoMastero/Microsoft-stock-price-prediction?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/HaseebAlgoMastero/Microsoft-stock-price-prediction?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/HaseebAlgoMastero/Crypto-Currency-Price?color=blue&logo=github&style=flat) |
 
-
-
-
-
-
-
-
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/HaseebAlgoMastero/count.svg">
