@@ -108,7 +108,7 @@
   <tr>
     <th>Stats</th>
     <th>Streak</th>
-    <th>Languages</th>
+    
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaseebAlgoMastero&theme=gruvbox"/></td>
@@ -117,8 +117,8 @@
 </table>
 <table>
   <tr>
-    <th>Profile Details</th>
     <th>Productive time card</th>
+    <th>Languages</th>
   </tr>
   <tr>
     <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8"/></td>
