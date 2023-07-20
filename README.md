@@ -108,6 +108,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
   </tr>
 </table>
+<img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox">
 	
 
 	
