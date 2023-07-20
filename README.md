@@ -113,7 +113,6 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaseebAlgoMastero&theme=gruvbox"/></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=HaseebAlgoMastero&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
   </tr>
 </table>
 <table>
@@ -123,6 +122,7 @@
   </tr>
   <tr>
     <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
   </tr>
 </table>
 
