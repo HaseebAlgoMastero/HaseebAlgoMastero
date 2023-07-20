@@ -105,7 +105,7 @@
     </tr>
   </table>
 </div>
-
+<div align =center>
 <table>
   <tr>
     <th>Stats</th>
@@ -117,6 +117,7 @@
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=HaseebAlgoMastero&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
   </tr>
 </table>
+</div>
 <table>
   <tr>
     <th>Productive time card</th>
