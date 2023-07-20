@@ -108,8 +108,15 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
   </tr>
 </table>
-<img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox">
-	
+<table>
+  <tr>
+    <th>Stats</th>
+  </tr>
+  <tr>
+    <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox"/></td>
+  </tr>
+</table>
+
 
 	
 ## Personal Projects
