@@ -111,6 +111,7 @@
 <table>
   <tr>
     <th>Profile Details</th>
+    <th>Productive time card</th>
   </tr>
   <tr>
     <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox"/></td>
