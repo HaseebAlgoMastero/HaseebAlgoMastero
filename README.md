@@ -95,6 +95,14 @@
   <a href="mailto:2021bme3@student.uet.edu.pk"><img src="https://img.shields.io/badge/-HaseebIqbal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white%22"/></a>
   <a href="https://www.instagram.com/marcos_developer318124/"><img src="https://img.shields.io/badge/-@Haseebiqbal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+<table>
+	<tr>
+		<th>Profile-Details</th>
+	</tr>
+	<tr>
+		<td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox"/></td>
+	</tr>
+</table>
 
 <table>
   <tr>
@@ -114,7 +122,6 @@
     <th>Productive time card</th>
   </tr>
   <tr>
-    <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox"/></td>
     <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8"/></td>
   </tr>
 </table>
