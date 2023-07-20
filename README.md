@@ -105,7 +105,7 @@
     </tr>
   </table>
 </div>
-<div align =center>
+<div align ="center">
 <table>
   <tr>
     <th>Stats</th>
@@ -118,7 +118,7 @@
   </tr>
 </table>
 </div>
-<div align = cener>
+<div align = "cener">
 <table>
   <tr>
     <th>Productive time card</th>
