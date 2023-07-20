@@ -110,10 +110,11 @@
 </table>
 <table>
   <tr>
-    <th>Stats</th>
+    <th>Profile Details</th>
   </tr>
   <tr>
     <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaseebAlgoMastero&theme=gruvbox"/></td>
+    <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8"/></td>
   </tr>
 </table>
 
