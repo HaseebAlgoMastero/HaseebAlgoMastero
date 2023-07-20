@@ -118,6 +118,7 @@
   </tr>
 </table>
 </div>
+<div align = cener>
 <table>
   <tr>
     <th>Productive time card</th>
@@ -128,6 +129,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
   </tr>
 </table>
+</div>
 
 
 	
