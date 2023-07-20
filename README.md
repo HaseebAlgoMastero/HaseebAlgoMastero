@@ -118,17 +118,17 @@
   </tr>
 </table>
 </div>
-<div align = "cener">
-<table>
-  <tr>
-    <th>Productive time card</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox"/></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th>Productive time card</th>
+      <th>Languages</th>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaseebAlgoMastero&theme=gruvbox&utcOffset=8" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaseebAlgoMastero&theme=gruvbox" /></td>
+    </tr>
+  </table>
 </div>
 
 
