@@ -4,11 +4,11 @@
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Machine+learning+Expert+;Deep+learning+Expert+;Image+Processing+Expert;Signal+Processing+Expert;Computer+vision+Expert;LLM+Exper" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Machine+learning+Expert+;Deep+Learning+Expert+;Computer+vision+Expert;LLM+Expert;Generative+AI+ExpertImage+Processing+Expert;Signal+Processing+Expert;" alt="Typing SVG" />
     </a>
   </p>
 	
-  <h3>I'm a Algo-master In Machine learning, Researcher, Developer!</h3>
+  <h3>I'm a Algo-master In Artificial Intellgence, Researcher, Developer!</h3>
   <ul>
     <li>🔭 Innovating at the intersection of web development,ML and AI to create intelligent web applications.</li>
     <li>🌱 I’m currently diving deep into the realms of AI and exploring the fascinating world of neural networks to fuel my passion.</li>
