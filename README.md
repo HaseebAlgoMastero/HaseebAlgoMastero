@@ -14,7 +14,7 @@
     <li>🌱 I’m currently diving deep into the realms of AI and exploring the fascinating world of neural networks to fuel my passion.</li>
     <li>👯 Seeking visionary collaborators to embark on transformative projects that will redefine our relationship with technology</li>
     <li>📢 Passionate Educator, Inspiring hundereds of Students with the Love for Learning</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>🥅 Unleash your curiosity, ask me about code, collaboration, and innovation!</li>
   </ul>
  <h2 style="text-align: center;"><----------------Machine Learning-Modelling------------------------></h2>
