@@ -84,9 +84,6 @@
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 </td>
-<td align='center' width="200">
-<img src="https://i0.wp.com/www.box1663.net/wp-content/uploads/2018/09/Metasploitable3.jpeg?fit=684%2C487&ssl=1&w=640">
-</td>
 </tr>
 </table>
 <p align="center">
