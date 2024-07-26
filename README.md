@@ -82,7 +82,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" >
 </td>
 <td align='center' width="200">
-<img src="https://lamiradadelreplicante.files.wordpress.com/2013/01/kali_linux.png">
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 </td>
 <td align='center' width="200">
 <img src="https://i0.wp.com/www.box1663.net/wp-content/uploads/2018/09/Metasploitable3.jpeg?fit=684%2C487&ssl=1&w=640">
