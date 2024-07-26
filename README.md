@@ -51,7 +51,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70">
 </td>
 <td align='center'>
-<img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  width="100">
 </td>
 <td align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="100">
