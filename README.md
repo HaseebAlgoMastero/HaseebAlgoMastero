@@ -86,11 +86,7 @@
 </td>
 </tr>
 </table>
-<p align="center">
-  <a href="https://www.linkedin.com/in/haseeb-iqbal-21sb/"><img src="https://img.shields.io/badge/-Haseeb%20Iqbal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:2021bme3@student.uet.edu.pk"><img src="https://img.shields.io/badge/-HaseebIqbal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white%22"/></a>
-  <a href="https://www.instagram.com/marcos_developer318124/"><img src="https://img.shields.io/badge/-@Haseebiqbal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+
 <div align="center">
   <table>
     <tr>
